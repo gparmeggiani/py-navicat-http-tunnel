@@ -1,10 +1,7 @@
 """
-Copyright (C) Giacomo Parmeggiani - All Rights Reserved
-Unauthorized copying of this file, via any medium is strictly prohibited
-Proprietary and confidential
 
 Author: Giacomo Parmeggiani <giacomo.parmeggiani@gmail.com>
-Date:   October 2018
+Website: https://github.com/gparmeggiani/py-navicat-http-tunnel
 
 """
 import struct
